@@ -8,9 +8,13 @@
     "require": {
         "php": "^8.2",
         "bezhansalleh/filament-shield": "^3.3",
+        "coderflex/filament-turnstile": "^2.2",
+        "dominion-solutions/filament-captcha": "^0.1.0",
         "filament/filament": "^3.2",
         "laravel/framework": "^11.31",
         "laravel/tinker": "^2.9",
+        "mews/captcha": "^3.4",
+        "scyllaly/hcaptcha": "^4.4",
         "solution-forest/filament-simplelightbox": "^0.0.10",
         "swisnl/filament-backgrounds": "^1.1"
     },
